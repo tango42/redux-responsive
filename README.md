@@ -1,4 +1,4 @@
-NB: This is a fork of https://github.com/AlecAivazis/redux-responsive extended with a direction for the media queries (w)idth|height).
+NB: This is a fork of https://github.com/AlecAivazis/redux-responsive extended with a direction for the media queries (width|height).
 
 # redux-responsive
 
