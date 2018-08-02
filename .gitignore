@@ -7,3 +7,5 @@ coverage/
 /react.js
 /index.js.map
 /react.js.map
+
+*.code-workspace

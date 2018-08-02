@@ -1,5 +1,5 @@
 {
-    "name": "redux-responsive",
+    "name": "redux-responsive-wh",
     "version": "4.3.7",
     "description": "Utilities for easily creating responsive designs in a redux architecture.",
     "main": "index.js",
@@ -7,9 +7,9 @@
     "types": "types",
     "repository": {
         "type": "git",
-        "url": "https://github.com/aaivazis/redux-responsive.git"
+        "url": "https://github.com/tango42/redux-responsive.git"
     },
-    "author": "Alec Aivazis",
+    "author": "WillemHein Triemstra",
     "scripts": {
         "build": "webpack --config config/webpack.js",
         "build:prod": "NODE_ENV=production npm run build",
